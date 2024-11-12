@@ -1,12 +1,13 @@
-👋 Hi, I’m @siddharthantv
-👀 I’m interested in ethical hacking, cybersecurity, AI/ML, and IoT.
-🌱 I’m currently learning more about AI/ML and blockchain, and how they can be applied in cybersecurity.
-💞️ I’m looking to collaborate on projects related to AI, cybersecurity, and blockchain development.
-📫 How to reach me: You can connect with me through my LinkedIn profile or email.
-😄 Pronouns: He/Him
-⚡ Fun fact: I once won 2nd prize in a district-level science expo for creating an AI personal assistant!
+## Hi there 👋 It's me Siddharth  
+Student @ Sri Venkateswaraa College of Technology
 
-<!---
-siddharthantv/siddharthantv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Here's my profile 
+- 🌱 I’m currently learning AI/ML and Blockchain  
+- 👯 I’m looking to collaborate on Cybersecurity, AI, and Blockchain projects  
+- 🤔 I’m looking for help with internships and tech opportunities  
+- 💬 Ask me about Hacking, Cybersecurity, AI, and Programming  
+- 📫 How to reach me:  
+- [![LinkedIn](https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/siddharthan-t-v-21310a300)
+
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once won 2nd prize in a district-level science expo for creating an AI personal assistant!.
