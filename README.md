@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Kwalix OS<br>👯 I’m looking to collaborate on open-source projects related to cybersecurity, Linux.<br>🤝 I’m looking for help with kernel development, low-level programming, and compiler optimization.<br>🌱 I’m currently learning assembly, advanced C, and exploit development.<br>💬 Ask me about ethical hacking, Linux, programming, and open-source development.<br>⚡ Fun fact I built an AI personal assistant in 12th grade and won 2nd place in a district-level science expo!
+🔭 I’m currently working on flucidOS<br>👯 I’m looking to collaborate on open-source projects related to cybersecurity, Linux.<br>🤝 I’m looking for help with kernel development, low-level programming, and compiler optimization.<br>🌱 I’m currently learning assembly, advanced C, and exploit development.<br>💬 Ask me about ethical hacking, Linux, programming, and open-source development.<br>⚡ Fun fact I built an AI personal assistant in 12th grade and won 2nd place in a district-level science expo!
 
 
 ## 🌐 Socials:
