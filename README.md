@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flucidOS<br>👯 I’m looking to collaborate on opensource projects<br>🤝 I’m looking for help with computer networking<br>🌱 I’m currently learning reverse engineering <br>💬 Ask me about Linux internals<br>⚡ Fun fact I am a nerd
+🔭 I’m currently working on flucidOS<br>👯 I’m looking to collaborate on Opensource projects<br>🤝 I’m looking for help with Computer Networking<br>🌱 I’m currently learning Reverse engineering <br>💬 Ask me about Linux internals<br>⚡ Fun fact I am a nerd
 
 
 ## 🌐 Socials:
